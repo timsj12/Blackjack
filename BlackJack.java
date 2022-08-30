@@ -1,6 +1,4 @@
 /**
- * @author Tim Jarvis
- * 
  * Program Simulates BlackJack Game
  */
 
