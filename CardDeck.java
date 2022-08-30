@@ -1,7 +1,5 @@
 /**
  * @author Tim Jarvis
- * Mini-Project 2: BlackJack
- * Due Date: 8/7/2022
  * 
  * CardDeck Class Creates the Deck of Class and grabs cards when cards are dealt
  */
