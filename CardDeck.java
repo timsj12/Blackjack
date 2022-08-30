@@ -1,6 +1,4 @@
 /**
- * @author Tim Jarvis
- * 
  * CardDeck Class Creates the Deck of Class and grabs cards when cards are dealt
  */
 
