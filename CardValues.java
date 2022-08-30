@@ -1,7 +1,5 @@
 /**
  * @author Tim Jarvis
- * Mini-Project 2: BlackJack
- * Due Date: 8/7/2022
  * 
  * CardValues Class Gets the Values for Each of the Cards
  */
