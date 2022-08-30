@@ -1,6 +1,4 @@
 /**
- * @author Tim Jarvis
- * 
  * CardValues Class Gets the Values for Each of the Cards
  */
 
