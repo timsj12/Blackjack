@@ -1,6 +1,4 @@
 /**
- * @author Tim Jarvis
- * 
  * Hand Class Prints The Cards and Values for Each of the Card in the Hand
  */
 
